@@ -53,12 +53,12 @@
 </div>
 <hr>
  <!-- Section: Introduction -->
- <section id="intro" class="intro text-center">
+ <section id="intro" class="intro-text-center">
     <div class="overlay">
         <div class="intro-content">
 
-            <img class="animated fadeInDown delay-05s" src="/Isotipo_Transp.Color.png" width="10%" height="10%"  <span class="element"></span>
-            <p class="subtitle animated fadeInUp delay-05s">Simply Safe. Our Mission.</p>
+            <img class="animated fadeInDown delay-05s" src="/Isotipo_Transp.Color.png" width="20%" height="30%">  <span class="element"></span>
+            <p class="subtitle-intro">Simply Safe. Our Mission.</p>
             <br>
             <br>
             <br>
@@ -110,5 +110,10 @@
       color: rgb(0,120,255);
       padding-left: 100px;
       margin: center;
+    }
+    .intro-content{
+      padding-left: 35%;
+      padding-right: 15%;
+      margin: 50px;
     }
   </style>
