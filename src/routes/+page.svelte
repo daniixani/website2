@@ -67,12 +67,6 @@
 </section>
   <style>
     
-    .nav-link{
-        color: white;
-    }
-    .nav-item :hover{
-        color: rgb(0,120,255);
-    }
     .text-center, .overlay,.container{
       color: rgb(0,120,255);
       
